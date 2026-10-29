@@ -23,15 +23,17 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 💎 JOALHERIA | Ações
 
 ## 💎JOALHERIA
 
-![](<../../.gitbook/assets/image (23)>)
+![](<../../.gitbook/assets/image (1)>)
 
-👮‍♂️ Policiais: Mínimo 6 | Máximo 9
+👮‍♂️ Policiais: Mínimo 7 | Máximo 9
 
 🐱‍👤 Bandidos: Mínimo 5 | Máximo 7
 
@@ -42,7 +44,7 @@ Na negociação, não retirar totalmente costa metro, caso os bandidos estejam i
 {% endhint %}
 
 {% hint style="info" %}
-**É permitido inicar com apenas 3 bandidos fora da joalheria.**&#x20;
+**É permitido inicar com apenas 3 bandidos fora da joalheria.**
 {% endhint %}
 
 {% hint style="info" %}
@@ -53,7 +55,7 @@ Na negociação, não retirar totalmente costa metro, caso os bandidos estejam i
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-👮‍♂️ Policiais: Mínimo 6 | Máximo 9
+👮‍♂️ Policiais: Mínimo 7 | Máximo 9
 
 🐱‍👤 Bandidos: Mínimo 5 | Máximo 7
 

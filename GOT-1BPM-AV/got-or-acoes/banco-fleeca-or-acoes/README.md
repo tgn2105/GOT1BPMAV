@@ -23,17 +23,17 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 💲 BANCO FLEECA | Ações
 
 ![FLEECA PRAIA](<../../.gitbook/assets/image (43)>)
 
-
-
 👮‍♂️ Policiais em Ação Tiro: Mínimo 8 | Máximo 10
 
-🐱‍👤Bandidos: Mínimo 6  | Máximo 8
+🐱‍👤Bandidos: Mínimo 6 | Máximo 8
 
 👪 Reféns: Máximo 3
 
@@ -43,13 +43,15 @@ layout:
 
 **Caso não haja reféns, é permitido 4 bandidos fora e caso haja refém, é permitido apenas 2 fora**
 
+{% hint style="warning" %}
+**Limitado a 3 bandidos na casa com cerca de madeira;**&#x20;
+{% endhint %}
 
+<br>
 
 ***
 
 ![FLEECA INVADER](<../../.gitbook/assets/image (44)>)
-
-
 
 **Proibido utilizar o Metrô e Bebidas.**
 
