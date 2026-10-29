@@ -3,7 +3,7 @@ description: >-
   Esta seção apresenta os fardamentos utilizados pelos operadores do grupamento,
   estabelecendo uma referência visual e descritiva para sua correta
   identificação e padronização.
-cover: ../../.gitbook/assets/image (1).jpg
+cover: ../../.gitbook/assets/image
 coverY: 0
 layout:
   width: default
@@ -26,6 +26,8 @@ layout:
   tags:
     visible: true
   actions:
+    visible: true
+  anchors:
     visible: true
 ---
 
@@ -72,8 +74,3 @@ Mantem-se o padrão, com o uso de adornos LIBERADOS desde que mantenham o padrã
 <mark style="color:orange;">O uso do colete balístico é OBRIGATÓRIO, com a exceção para o comando e braços direitos.</mark>
 {% endtab %}
 {% endtabs %}
-
-
-
-
-

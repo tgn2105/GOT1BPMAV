@@ -23,6 +23,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 📓 GOT | Curso
@@ -61,9 +63,7 @@ Armamentos liberados após conclusão do CTO III.
 Armamentos liberados após conclusão do CTO IV.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/g3 e m4.png" alt="" width="332"><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/e6350568-703a-49f8-9903-191030ebb351.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Qualquer mau uso do equipamentos estará sujeito a revogação do porte.

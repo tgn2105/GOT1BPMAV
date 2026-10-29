@@ -1,6 +1,6 @@
 ---
 description: Armamentos liberados para utilização dos operadores.
-cover: ../.gitbook/assets/image.jpg
+cover: ../.gitbook/assets/image
 coverY: 0
 layout:
   width: default
@@ -23,6 +23,8 @@ layout:
   tags:
     visible: true
   actions:
+    visible: true
+  anchors:
     visible: true
 ---
 

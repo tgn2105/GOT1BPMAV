@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/image.jpg
+cover: ../.gitbook/assets/image
 coverY: 0
 layout:
   width: default
@@ -23,11 +23,13 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 📑 Regras e Observações Gerais
 
-O Grupamento de Operações Táticas (G.O.T) é o grupamento responsável por todo o controle de crise, situações de alto risco e ações do batalhão de polícia militar. O GOT é acionado quando há ocorrências de roubos (ações), sequestros, incursões, troca de tiros e apoio para situações de risco, como abordagens de Cód 3 ou semelhantes. Um Operador do GOT deve estar preparado a todo momento para agir, seja comandando uma ação, comandando o batalhão durante uma troca de tiros ou escalando ações.&#x20;
+O Grupamento de Operações Táticas (G.O.T) é o grupamento responsável por todo o controle de crise, situações de alto risco e ações do batalhão de polícia militar. O GOT é acionado quando há ocorrências de roubos (ações), sequestros, incursões, troca de tiros e apoio para situações de risco, como abordagens de Cód 3 ou semelhantes. Um Operador do GOT deve estar preparado a todo momento para agir, seja comandando uma ação, comandando o batalhão durante uma troca de tiros ou escalando ações.
 
 ## Regras do Grupamento
 
@@ -53,7 +55,7 @@ Os membros do GOT devem tomar a frente de toda e qualquer ação, são eles que 
 
 ## Hierarquia
 
-O Grupamento conta com as seguintes patentes:&#x20;
+O Grupamento conta com as seguintes patentes:
 
 * Estagiário
 * Operador
@@ -61,4 +63,3 @@ O Grupamento conta com as seguintes patentes:&#x20;
 * Operador Sênior
 * Braço direito
 * Comando
-

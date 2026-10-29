@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/image (1).jpg
+cover: ../../.gitbook/assets/image
 coverY: 0
 layout:
   width: default
@@ -23,15 +23,15 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # CENÁRIO DA AÇÃO (ANTIGA) | Ações
 
-
-
 ## PONTOS IMPORTANTES (DROPS,PIXEL E SPOTS)
 
-![](<../../.gitbook/assets/image (26)>)
+![](<../../.gitbook/assets/image (6)>)
 
 **ATENÇÃO AS RESPECTIVAS CORES DOS DROPS**
 
@@ -46,61 +46,43 @@ layout:
 **O comando da ação irá decidir quantos oficiais irão no helicóptero de inicio para efetuar os drops.**
 {% endhint %}
 
-![QUADRO ESQUERDO | QUADRO DIREITO](<../../.gitbook/assets/image (27)>)
+![QUADRO ESQUERDO | QUADRO DIREITO](<../../.gitbook/assets/image (7)>)
 
+![PORTA DIREITA | PORTA ESQUERDA](<../../.gitbook/assets/image (8)>)
 
+![BUCHECHA DIREITA](<../../.gitbook/assets/image (9)>)
 
-![PORTA DIREITA | PORTA ESQUERDA](<../../.gitbook/assets/image (28)>)
+![BUCHECHA ESQUERDA](<../../.gitbook/assets/image (10)>)
 
-
-
-![BUCHECHA DIREITA](<../../.gitbook/assets/image (29)>)
-
-
-
-![BUCHECHA ESQUERDA](<../../.gitbook/assets/image (30)>)
-
-
-
-![COFRE](<../../.gitbook/assets/image (31)>)
-
-
+![COFRE](<../../.gitbook/assets/image (11)>)
 
 ## PICK'S DA JOALHERIA
 
-![PICK PORTA DIREITA](<../../.gitbook/assets/image (32)>)
+![PICK PORTA DIREITA](<../../.gitbook/assets/image (12)>)
 
-
-
-![PICK PORTA ESQUERDA](<../../.gitbook/assets/image (33)>)
+![PICK PORTA ESQUERDA](<../../.gitbook/assets/image (13)>)
 
 Um oficial designado irá fazer o pick porta direita/esquerda para abater os indivíduos.
 
 ***
 
-![FEFE AVANÇADO](<../../.gitbook/assets/image (34)>)
+![FEFE AVANÇADO](<../../.gitbook/assets/image (14)>)
 
-
-
-![FEFE RECUADO](<../../.gitbook/assets/image (35)>)
-
-
+![FEFE RECUADO](<../../.gitbook/assets/image (15)>)
 
 * **FEFE AVANÇADO: O primeiro oficial irá colar no vaso da direita para abater os indivíduos que estiverem na Buchecha esquerda.**
 * FEFE RECUADO: Irá mirar quadro direita, esquerda ou cofre, (A depender do setup dos bandidos).
 
 ***
 
-![SUBIR CADEIRA](<../../.gitbook/assets/image (36)>)
+![SUBIR CADEIRA](<../../.gitbook/assets/image (16)>)
 
 Este pick consiste com um oficial que irá subir na cadeira para abater os indivíduos no balcão direito/esquerdo.
 
 ***
 
-![FEFE INVERTIDO (AVANÇADO)](<../../.gitbook/assets/image (37)>)
+![FEFE INVERTIDO (AVANÇADO)](<../../.gitbook/assets/image (17)>)
 
-
-
-![FEFE INVERTIDO (RECUADO)](<../../.gitbook/assets/image (38)>)
+![FEFE INVERTIDO (RECUADO)](<../../.gitbook/assets/image (18)>)
 
 * FEFE INVERTIDO: Tem a mesma funcionalidade do Fefe normal, muda apenas que os oficiais irão abrir no vaso da esquerda para abater os bandidos Buchecha direita.
